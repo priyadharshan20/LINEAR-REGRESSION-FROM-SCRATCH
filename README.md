@@ -2,7 +2,7 @@
 
 In this project I have implemented a simple linear regression model from scratch without using any libraries or frameworks to predict salaries based on years of experience using gradient descent optimization. It involves data preprocessing, visualization, cost calculation, and gradient descent for optimizing the linear regression parameters.
 
-I have used the Experience-Salary.csv dataset in this model.
+I have used the Experience-Salary.csv dataset in this model. The functions involved are
 
 1. **predict(slope, y_intercept, experience)**
 
